@@ -1,4 +1,4 @@
-### Hell~O 🙇🏻‍♂️ 
+### Hell~O, moved to AWS CodeCommit 🙇🏻‍♂️ 
 
 <!--
 **baoqingna/baoqingna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
